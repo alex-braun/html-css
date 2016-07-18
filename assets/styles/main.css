@@ -1,0 +1,42 @@
+h1 {
+  color: #954535;
+  font-family: cursive;
+}
+
+body {
+  font-family: Arial;
+  text-align: center;
+}
+.butter {
+  color: yellow;
+}
+.brown-sugar {
+  color: brown;
+}
+.gran-sugar {
+  color: grey;
+}
+.vanilla {
+  color: tan;
+}
+.milk {
+  color: blue;
+}
+.extract {
+  color: red;
+}
+.eggs {
+  color: orange;
+}
+.flour {
+  color: pink;
+}
+.soda {
+  color: green;
+}
+.salt {
+  color: purple;
+}
+.choc-chips {
+  color: black;
+}
